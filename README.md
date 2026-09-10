@@ -1,6 +1,6 @@
-Modelagem de Dados - Clínica medica
+Modelagem de Dados - Clínica veterinaria
 Introdução
-Projeto de modelagem de dados para uma clínica medica, contendo clientes, pacientes, medicos  e consultas.
+Projeto de modelagem de dados para uma clínica veterinaria, contendo clientes, pacientes, medicos  e consultas.
 
 Arquivos
 1_modelo_conceitual.png - Modelo conceitual.
